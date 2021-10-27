@@ -2,7 +2,7 @@ import sys
 import math
 
 # Use
-#   alias factorTree='cd ~ && cd rootdir-scripts && cd factorTree && f(){pipenv run python3 factorTree.py "$1"; unset -f f; cd ~;}; f'
+#   alias baseConvert=cd ~ && cd rootdir-scripts && cd baseConverters && f(){pipenv run python3 main.py "$@"; unset -f f; cd ~;}; f
 # to run from terminal
 
 
